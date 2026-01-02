@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="photos/logo.png" alt="Eat Better Everyday Logo" width="200">
+</div>
+
 # Eat Better Everyday Website
 
 Welcome to the source code for **Eat Better Everyday**. This is a lightweight, responsive, static website designed for nutrition coaching services.
